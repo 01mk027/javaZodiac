@@ -1,0 +1,2 @@
+## Introduction and purpose
+This basic software is written for Java101 course on <a href="https://patika.dev">patika.dev</a>. Software expect user's birthday month (as a number), and day in numbers. According to entered values, software determines the horoscope of user.
